@@ -1,0 +1,6 @@
+*.stat
+*.res
+*.identcache
+*.local
+__history/
+Win32/
